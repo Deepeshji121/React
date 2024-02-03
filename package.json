@@ -1,0 +1,19 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "creating own react app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepeshji121/React.git"
+  },
+  "author": "deepesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deepeshji121/React/issues"
+  },
+  "homepage": "https://github.com/Deepeshji121/React#readme"
+}
